@@ -1,6 +1,3 @@
-# Java-Datatypes
-Java Datatypes
-
 import java.util.Scanner;
 import java.io.*;
 
